@@ -129,14 +129,23 @@ Based on the research, high-value automation targets:
 
 ## Meeting Preparation
 
-For upcoming accountant meeting, use:
-- `01-aml-compliance-requirements.md` - Show obligations and pain points
-- `02-aml-solutions-comparison.md` - Discuss gaps in current market
-- `03-client-onboarding-workflow.md` - Walk through each step, identify biggest time-sinks
+**Meeting Context:** Consulting with YOUR accountant as an industry expert (not a potential customer)
 
-**Key Questions to Ask:**
-1. How many designated service clients do you have/expect?
-2. Which steps in the workflow cause most pain?
-3. Would you pay for partial automation vs. full suite?
-4. What's your budget for AML compliance tools?
-5. Are you using practice management software? (integration opportunity)
+**Use these documents:**
+- `05-expert-consultation-questions.md` - **10 questions for industry expert consultation** ⭐ PRIMARY
+- `03-client-onboarding-workflow.md` - Show the workflow to validate time estimates
+- `02-aml-solutions-comparison.md` - Discuss market gaps
+
+**Meeting Objectives:**
+1. Validate that 2-10 hour time burden is realistic for small firms
+2. Confirm $200-700/month pricing makes sense for target market
+3. Get expert opinion on which workflow steps cause most pain
+4. Get 2-3 warm introductions to small firm owners (actual prospects)
+5. Validate go-to-market strategy and channels
+
+**Key Questions:**
+1. How are different sized firms approaching AML? Who's most stressed?
+2. Which parts of the compliance workflow will cause most pain for small firms?
+3. Is 2-10 hours per client realistic or conservative?
+4. Does $200-700/month pricing make sense for 5-10 person firms?
+5. Can you introduce me to 2-3 small firm owners I could talk to?
