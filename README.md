@@ -1,151 +1,163 @@
-# AML Compliance Toolkit for Small Accounting Firms
-# AML Compliance Toolkit for Small Accounting Firms
+# AML/CTF Compliance Toolkit for Australian Accounting Firms
 
-## Problem
-Australian accounting firms must comply with AML/CTF regulations by July 1, 2026.
-Small firms (3-10 staff) struggling with compliance burden.
+A comprehensive research repository covering Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) compliance requirements for Australian accounting firms under the **Tranche 2 reforms**, effective **July 1, 2026**.
 
-## Opportunity
-Automate client onboarding, risk assessment, documentation, ongoing monitoring.
+## Overview
 
-## Revenue Model
-- Setup: $2k-10k per firm
-- Recurring: $200-750/month
-- Target: 10 firms = $110k first year
+The Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024 extends AML/CTF obligations to professional service providers including accountants, lawyers, and real estate agents. This represents the most significant change to Australia's AML/CTF framework since its inception in 2006.
 
-## Status
-Research phase - meeting with accountant in 5 days
+**Key Deadlines:**
+- **March 31, 2026**: AUSTRAC enrolment opens for Tranche 2 entities
+- **July 1, 2026**: Compliance obligations commence
 
-## Research Completed
+## Research Documents
 
-Comprehensive research materials now available in `/research/`:
+This repository contains seven detailed research documents covering all aspects of AML/CTF compliance for accounting firms:
 
-### 1. Compliance Requirements Document
-**File:** `research/01-aml-compliance-requirements.md`
+### 1. [AML/CTF Overview](research/aml-overview.md)
+- What is AML/CTF compliance and why it matters
+- Why accounting firms are now included in the regulatory framework
+- The July 2026 deadline and implementation timeline
+- Which firms and services are affected
 
-Complete guide covering:
-- What triggers AML obligations for accountants
-- Registration deadlines (March 31, 2026)
-- Customer due diligence requirements
-- Evidence and documentation needed
-- Ongoing monitoring frequency and triggers
-- Record keeping requirements (7 years)
-- Penalties for non-compliance (up to $37.8M for serious breaches)
-- Implementation timeline and checklist
+### 2. [Legal Obligations](research/legal-obligations.md)
+- Complete list of mandatory "must do" requirements
+- Enrolment with AUSTRAC
+- AML/CTF program development and maintenance
+- Customer due diligence obligations
+- Reporting requirements (SMRs, TTRs, compliance reports)
+- Record keeping requirements and 7-year retention periods
+- What triggers different obligation levels
 
-**Key Finding:** Designated services include assisting with company/trust formation, business entity sales, and real estate transactions - NOT simple tax returns or bookkeeping.
+### 3. [Client Onboarding Process](research/client-onboarding-process.md)
+- Step-by-step onboarding workflow
+- Information collection requirements for individuals, companies, trusts, and partnerships
+- Identity verification methods (documents, electronic verification, certification)
+- Beneficial ownership identification and verification
+- Risk assessment criteria and processes
+- Enhanced due diligence for high-risk customers
+- Documentation requirements
 
-### 2. Solutions Comparison Table
-**File:** `research/02-aml-solutions-comparison.md`
+### 4. [Ongoing Compliance](research/ongoing-compliance.md)
+- Monitoring obligations and frequency
+- When customer reviews are triggered
+- Transaction monitoring and pattern detection
+- Record retention periods and what to retain
+- Suspicious Matter Reports (SMRs) - when and how to report
+- Threshold Transaction Reports (TTRs) - $10,000 cash reporting
+- Annual compliance reports to AUSTRAC
+- Ongoing compliance calendar
 
-Analysis of available compliance solutions:
+### 5. [Penalties and Enforcement](research/penalties-enforcement.md)
+- Civil penalties: up to **$31.3M for firms**, **$6.26M for individuals**
+- Criminal penalties: up to **5 years imprisonment** for structuring
+- Daily non-enrolment penalties: **$18,780/day for firms**
+- Real-world enforcement examples:
+  - Westpac: $1.3 billion penalty for 19M+ contraventions
+  - Commonwealth Bank: $700 million penalty
+  - Crown Resorts: $450 million penalty
+- AUSTRAC's enforcement approach and priorities
+- Case studies and lessons learned
 
-**FREE Options:**
-- AUSTRAC Accounting Program Starter Kit (developed by Grant Thornton)
-- Professional body resources (CPA, CA ANZ, IPA)
+### 6. [Current Solutions](research/current-solutions.md)
+- Professional body offerings (CPA Australia, CA ANZ, IPA)
+- Commercial software solutions:
+  - TrustEasy (~$1,200/year for small firms)
+  - TrustSoft (~$1,200/year for beginners)
+  - Firmcheck
+  - First AML
+  - StackGo (CRM-integrated)
+  - easyAML
+  - IRIS AML
+- Feature comparisons and pricing
+- What each solution covers
+- Recommendations for different firm sizes
 
-**Commercial Options:**
-- IRIS AML Software (£320+/~$620+, accounting-specific)
-- Grant Thornton AUSTRAC Starter Program (enterprise, quote-based)
-- First AML (AU/NZ focused)
-- Electronic verification services ($2-10/check)
+### 7. [Pain Points and Automation](research/pain-points-automation.md)
+- Time burden estimates:
+  - Sole practitioners: 37-75 hours initial setup, 34-57 hours/year ongoing
+  - Small firms: 80-160 hours initial setup, 165-253 hours/year ongoing
+  - Large firms: 210-415 hours initial setup, 783-1,180 hours/year ongoing
+- Common bottlenecks for small firms
+- Manual vs. automatable tasks
+- Where technology helps most
+- ROI calculations showing **129-1,233% returns** on automation investments
+- Cost-benefit analysis for different firm sizes
 
-**Recommendations by Firm Size:**
-- 1-5 staff: FREE starter kit ($0-$500/year)
-- 5-15 staff: Starter kit + eVerification ($1,000-$3,000/year)
-- 15-30 staff: Commercial software ($3,000-$10,000/year)
-- 30+ staff: Enterprise solution ($10,000-$50,000+/year)
+## Key Takeaways
 
-**Key Finding:** Automation break-even point is ~67 clients/year - firms with 70+ designated service clients justify software investment.
+### Who This Affects
+Accounting firms providing **designated services**:
+- Creating or managing trusts
+- Forming or managing companies, partnerships, or associations
+- Acting as an ASIC agent
 
-### 3. Client Onboarding Workflow
-**File:** `research/03-client-onboarding-workflow.md`
+**Note:** Traditional accounting services (tax returns, BAS, bookkeeping, financial statements) are **not** designated services and don't trigger AML/CTF obligations.
 
-Detailed workflow showing EVERY step where AML creates work:
+### What's Required
+1. **Enrol with AUSTRAC** between March 31 - July 1, 2026
+2. **Develop an AML/CTF program** tailored to your firm's risks
+3. **Conduct customer due diligence** before providing designated services
+4. **Monitor customers** throughout the relationship
+5. **Report suspicious matters** to AUSTRAC (within 3 days for ML, 24 hours for TF)
+6. **Report cash transactions** of $10,000+ (within 10 business days)
+7. **Keep records** for 7 years
+8. **Submit annual compliance reports** to AUSTRAC
 
-**Time Impact Per Client:**
-- Simple case: 2-3.5 hours initial onboarding
-- Complex case: 5-10+ hours initial onboarding
-- Ongoing reviews: 20 minutes - 2 hours (based on risk rating)
+### Penalties for Non-Compliance
+- **Daily penalties** for not enrolling: $18,780/day for firms
+- **Civil penalties** for breaches: up to $31.3M per contravention
+- **Criminal penalties** for serious offenses: up to 5 years imprisonment
+- **Reputational damage** and loss of clients
 
-**Major AML Touchpoints:**
-1. Service determination (is it designated?)
-2. Customer due diligence (identity verification)
-3. Beneficial ownership identification (25%+ owners)
-4. PEP screening (politically exposed persons)
-5. Sanctions & adverse media screening
-6. Risk assessment and rating
-7. Senior management approval (high-risk clients)
-8. Ongoing monitoring (1-5 year frequency)
-9. Suspicious matter reporting (if needed)
-10. 7-year record retention
+### Solutions Available
+- **Professional body guidance**: CPA Australia, CA ANZ, IPA provide free templates and education
+- **Software platforms**: Entry-level solutions start at ~$1,200/year with strong ROI
+- **Automation benefits**: 50% time savings, improved compliance, reduced risk
 
-**Cost Example - Small Firm (30 clients/year):**
-- First year: $13,500 (setup + onboarding + transitions)
-- Subsequent years: $6,000/year (ongoing)
+## Target Audience
 
-## Automation Opportunities Identified
+This research is designed for:
+- **Accounting firm principals** and partners assessing compliance requirements
+- **Practice managers** responsible for implementing compliance programs
+- **Compliance officers** developing policies and procedures
+- **Software developers** building AML/CTF compliance solutions
+- **Professional advisors** supporting accounting firms with compliance
 
-Based on the research, high-value automation targets:
+## Disclaimer
 
-1. **Customer Due Diligence (CDD) Automation**
-   - Electronic ID verification (vs. manual document checks)
-   - Saves 10-20 minutes per client
-   - Current solutions: $2-10/check (no integrated solution for small firms)
+This repository contains research and information for educational purposes. It is not legal advice. Firms should:
+- Consult AUSTRAC's official guidance at [austrac.gov.au](https://www.austrac.gov.au)
+- Seek professional legal advice for their specific circumstances
+- Contact professional bodies (CPA Australia, CA ANZ, IPA) for sector-specific guidance
+- Verify all information against current legislation and regulations
 
-2. **Risk Assessment Automation**
-   - Automated risk scoring based on questionnaire
-   - PEP/sanctions screening integration
-   - Saves 20-40 minutes per client
-   - Current gap: Most tools don't auto-score for accountants
+AML/CTF requirements are complex and evolving. Always refer to official sources for compliance decisions.
 
-3. **Ongoing Monitoring Reminders**
-   - Auto-schedule OCDD reviews based on risk rating
-   - Alert when review due (1-5 year cycles)
-   - Saves missed reviews, reduces compliance risk
-   - Current gap: Practice management systems don't have AML-specific triggers
+## Resources
 
-4. **Document Management**
-   - Centralized AML file with 7-year retention
-   - Audit-ready documentation
-   - Saves 15-30 minutes per client
-   - Current gap: No accounting-specific AML document vault
+### Official Sources
+- [AUSTRAC - AML/CTF Reform](https://www.austrac.gov.au/amlctf-reform)
+- [AUSTRAC - Accountant Guidance](https://www.austrac.gov.au/reforms/sector-specific-guidance/accountant-guidance)
+- [Department of Home Affairs - AML/CTF Amendment Act Overview](https://www.homeaffairs.gov.au/criminal-justice/Pages/overview-of-the-amlctf-amendment-act.aspx)
 
-5. **Form Generation & Workflow**
-   - Pre-fill client forms from practice management
-   - Workflow management (incomplete CDD = block service)
-   - Saves 20-30 minutes per client
-   - Current gap: Manual form handling in most solutions
+### Professional Bodies
+- [CPA Australia - AML/CTF Resources](https://www.cpaaustralia.com.au/public-practice/my-firm-my-future/compliance-and-governance/anti-money-laundering-reforms-in-au-and-nz/aml-ctf-au)
+- [CA ANZ - AML/CTF Requirements](https://www.charteredaccountantsanz.com/member-services/smp-resource-centre/smaller-practices/resources/auamlctf)
 
-**Total Time Savings Potential:** 65-120 minutes per client (vs. manual AUSTRAC starter kit)
+### Legislation
+- [Anti-Money Laundering and Counter-Terrorism Financing Act 2006](https://www.legislation.gov.au/Series/C2006A00169)
+- [Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7243)
 
-**Market Gap:** Commercial solutions are enterprise-focused ($5k-$50k+). Small firms (1-15 staff) underserved - they need affordable automation (~$200-750/month range).
+## Contributing
 
-## Next Steps
-1. ~~Research AML/CTF Act 2024 requirements~~ ✓ DONE
-2. Validate with 3-5 small firms (use research materials in meeting)
-3. Map automation opportunities → **Focus on CDD + risk assessment + OCDD reminders**
-4. Build MVP if validated
+This is a research repository documenting publicly available information about AML/CTF compliance requirements. Contributions, corrections, and updates are welcome via issues or pull requests.
 
-## Meeting Preparation
+## License
 
-**Meeting Context:** Consulting with YOUR accountant as an industry expert (not a potential customer)
+This research compilation is provided for informational purposes. Source materials are cited throughout and remain subject to their original licenses and copyrights.
 
-**Use these documents:**
-- `05-expert-consultation-questions.md` - **10 questions for industry expert consultation** ⭐ PRIMARY
-- `03-client-onboarding-workflow.md` - Show the workflow to validate time estimates
-- `02-aml-solutions-comparison.md` - Discuss market gaps
+---
 
-**Meeting Objectives:**
-1. Validate that 2-10 hour time burden is realistic for small firms
-2. Confirm $200-700/month pricing makes sense for target market
-3. Get expert opinion on which workflow steps cause most pain
-4. Get 2-3 warm introductions to small firm owners (actual prospects)
-5. Validate go-to-market strategy and channels
-
-**Key Questions:**
-1. How are different sized firms approaching AML? Who's most stressed?
-2. Which parts of the compliance workflow will cause most pain for small firms?
-3. Is 2-10 hours per client realistic or conservative?
-4. Does $200-700/month pricing make sense for 5-10 person firms?
-5. Can you introduce me to 2-3 small firm owners I could talk to?
+**Last Updated:** February 2026
+**Status:** Active research - requirements finalized, implementation pending July 1, 2026 deadline
