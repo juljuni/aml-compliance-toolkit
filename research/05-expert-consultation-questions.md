@@ -258,6 +258,313 @@
 
 ---
 
+## BONUS: Exploring Other Automation Opportunities
+
+### 11. Beyond AML - What Else Keeps Small Firms Busy?
+
+**Context Setting:**
+> "I'm focused on AML compliance right now because of the July 2026 deadline, but I'm curious - what other workflows or processes do you see small accounting firms struggling with? Where are they spending tons of manual time that could be automated? What do you hear people complaining about at industry events?"
+
+**What You're Seeking:**
+- Other pain points beyond AML
+- Adjacent opportunities
+- Broader automation needs
+- Validation of accounting practice pain points
+
+**Listen For:**
+
+**Common Accounting Workflow Pain Points:**
+- "Client onboarding in general is painful, not just AML"
+- "Document collection and management is a nightmare"
+- "Chasing clients for information is the biggest time-sink"
+- "Practice management and job tracking"
+- "Time tracking and billing"
+- "Tax workflow management"
+- "Year-end process coordination"
+- "Client communication and status updates"
+
+**Specific Opportunity Indicators:**
+- Repetitive manual processes
+- High-volume, low-value tasks
+- Processes that cause client friction
+- Compliance-related workflows
+- Information gathering bottlenecks
+- Communication overhead
+
+**Follow-Up Probes:**
+- "How much time does a typical firm spend on [that pain point] each month?"
+- "Are there existing solutions for that, or is it still mostly manual?"
+- "Would firms pay to automate that, or would they just keep doing it manually?"
+- "Is that problem specific to small firms or does everyone struggle with it?"
+
+---
+
+### 12. The Client Onboarding Question
+
+**Question:**
+> "Even outside of AML, what does client onboarding look like for most small firms? Is it standardized and systematic, or is every firm doing it differently with forms, emails, and spreadsheets? What information do they need to collect, and how painful is that process?"
+
+**What You're Seeking:**
+- Broader onboarding pain points (AML is just one piece)
+- Standardization vs. chaos
+- Technology gaps
+- Adjacent product opportunities
+
+**Listen For:**
+- "Most firms have terrible onboarding processes"
+- "Every firm reinvents the wheel with their own Word documents"
+- "Client information gets lost in email chains"
+- "They collect the same information multiple times"
+- "No one has a good system for tracking what's been collected"
+
+**Adjacent Opportunities:**
+- General client onboarding automation (AML as feature, not whole product)
+- Document collection and portal
+- E-signature workflow
+- Client information management
+- Engagement letter automation
+- Know Your Client (KYC) beyond just AML
+
+**Follow-Up Probes:**
+- "What client information do firms typically need to collect at onboarding?"
+- "How do they currently manage engagement letters - DocuSign, email, paper?"
+- "Do firms struggle with the same client onboarding problems across tax, audit, advisory?"
+
+---
+
+### 13. The Document Management Pain
+
+**Question:**
+> "How are most small firms handling document management and retention? Are they on modern DMS platforms, or is it still network drives, Dropbox folders, and hoping they can find things later? What about retention policies - do they actually follow them?"
+
+**What You're Seeking:**
+- Document management maturity
+- Compliance with retention requirements
+- Pain severity
+- Willingness to pay for better tools
+
+**Listen For:**
+- "Document management is chaos at most small firms"
+- "They use Dropbox or network drives with terrible folder structures"
+- "No one can find anything when clients call"
+- "Retention policies? What retention policies?"
+- "They spend hours looking for old documents"
+
+**Opportunity Assessment:**
+- Is DMS a solved problem (Xero, MYOB, SharePoint) or still painful?
+- Would they pay for accounting-specific DMS?
+- Is this bundled with other tools or standalone need?
+
+**Follow-Up Probes:**
+- "What percentage of small firms use proper DMS vs. just file shares?"
+- "Do the existing practice management systems have good document management?"
+- "Would firms pay extra for better document search and organization?"
+
+---
+
+### 14. The Client Communication Overhead
+
+**Question:**
+> "How much time do small firms spend on client communication - emails back and forth asking for information, status updates, answering the same questions repeatedly? Is there a 'client portal' problem where firms want better ways to communicate but don't have good tools?"
+
+**What You're Seeking:**
+- Communication overhead quantification
+- Portal adoption and satisfaction
+- Automation opportunity
+- Client experience pain points
+
+**Listen For:**
+- "So much time wasted on email ping-pong"
+- "Clients always ask 'where are we at with my tax return?'"
+- "Client portals exist but they're clunky and no one uses them"
+- "Firms need better ways to request documents from clients"
+- "Status updates are completely manual"
+
+**Opportunity Types:**
+- Client portal / communication platform
+- Automated status updates
+- Document request automation
+- FAQ/self-service for clients
+- SMS/WhatsApp integration for client communication
+
+**Follow-Up Probes:**
+- "Do the practice management systems have client portals? Are they any good?"
+- "How do most firms request documents - email, portal, paper?"
+- "Would clients actually use a portal if it was easy enough?"
+
+---
+
+### 15. The Compliance Treadmill
+
+**Question:**
+> "AML is the hot compliance topic right now, but what other compliance burdens are hitting small firms? Data privacy, cybersecurity, professional indemnity requirements? Is there a pattern where compliance keeps piling up but tools to manage it don't keep pace?"
+
+**What You're Seeking:**
+- Other compliance pain points
+- Pattern of regulatory burden
+- Willingness to pay for compliance tools
+- Market timing for other compliance opportunities
+
+**Listen For:**
+- "Privacy laws (Australian Privacy Principles) are a nightmare"
+- "Cybersecurity requirements from clients and insurers are increasing"
+- "Professional indemnity insurers want evidence of compliance"
+- "Tax compliance is getting more complex every year"
+- "Every new regulation adds overhead but no one builds tools for small firms"
+
+**Pattern Recognition:**
+- Is there a "compliance tool platform" opportunity?
+- Could you build a compliance management suite (AML + privacy + security)?
+- Is compliance a category where small firms will pay?
+
+**Follow-Up Probes:**
+- "What compliance requirements cause the most overhead after AML?"
+- "Do firms have good systems for demonstrating compliance to insurers/regulators?"
+- "Would a 'compliance dashboard' showing all obligations be valuable?"
+
+---
+
+### 16. The Pricing and Scoping Problem
+
+**Question:**
+> "How do small firms handle pricing and scoping for new engagements? Is it standardized, or is every quote custom? Do they struggle to estimate time and price profitably? Is there a 'quoting tool' gap?"
+
+**What You're Seeking:**
+- Pricing sophistication
+- Scope creep problems
+- Opportunity for pricing/quoting tools
+- Time tracking and profitability visibility
+
+**Listen For:**
+- "Most firms underprice because they guess wrong on time"
+- "Scope creep kills profitability"
+- "No good tools for building quotes quickly"
+- "Pricing is inconsistent - depends who the client talks to"
+- "They don't track actual time vs. estimated, so they never learn"
+
+**Opportunity Assessment:**
+- Quote/proposal automation
+- Pricing calculator based on historical data
+- Scope management and change orders
+- Profitability analytics
+
+**Follow-Up Probes:**
+- "Do practice management systems have good quoting tools built in?"
+- "How do firms price advisory work vs. compliance work?"
+- "Would firms pay for AI-powered time estimation based on similar jobs?"
+
+---
+
+### 17. The "What Would You Build?" Question
+
+**Question:**
+> "If you could wave a magic wand and automate one painful workflow for small accounting firms - something where the current solutions are inadequate or too expensive - what would it be? What's the number one thing that wastes time or causes stress that someone should solve?"
+
+**What You're Seeking:**
+- Expert opinion on highest-value opportunity
+- Validation of AML vs. other opportunities
+- Creative ideas you haven't considered
+- Priority ranking
+
+**Listen For:**
+- Their top-of-mind answer (reveals what's most painful)
+- "Actually, I think AML is probably the most urgent..."
+- "Honestly, client onboarding in general is the bigger problem"
+- "If someone solved [X], they'd have a huge market"
+- Specific, detailed pain point descriptions
+
+**This Reveals:**
+- Whether AML is the right focus or just one of many opportunities
+- What adjacent markets might be bigger
+- What experts think is the most valuable problem to solve
+
+**Follow-Up Probes:**
+- "Why hasn't someone built that already?"
+- "How much would a firm pay per month for that solution?"
+- "Is that problem getting better or worse over time?"
+
+---
+
+## How to Weave This Into Your Meeting
+
+### Timing (Last 15-20 Minutes)
+
+After you've covered the AML-specific questions:
+
+> "I really appreciate all the AML insights. Before we wrap up, I want to zoom out a bit. AML is clearly a compliance requirement hitting firms in July 2026, but I'm curious about the broader landscape of pain points for small firms..."
+
+Then transition into questions 11-17.
+
+### Why This Matters
+
+**Validates Your Current Focus:**
+- If they say "AML is definitely the most urgent thing" → you're on the right track
+- If they say "Honestly, [other thing] is a way bigger problem" → valuable pivot signal
+
+**Uncovers Adjacent Opportunities:**
+- AML might be a feature, not a product (part of broader onboarding)
+- Could inform your roadmap (solve AML first, then expand)
+- Might reveal a better initial opportunity
+
+**Market Sizing:**
+- Is AML a $X million opportunity but client onboarding is $XX million?
+- Should you go narrow (AML only) or broader (compliance platform)?
+
+**Product Strategy:**
+- Should you build AML-specific tool or general workflow automation?
+- Is there a larger platform play with AML as wedge?
+
+---
+
+## What Great Answers Look Like
+
+### Strong Signal Examples
+
+**For AML Being Right Focus:**
+- "AML is the most urgent because there's a hard deadline and big penalties"
+- "Everything else is chronic pain, but AML is acute pain about to hit"
+- "Firms will pay for AML because they have to; other stuff is nice-to-have"
+
+**For Pivoting/Expanding:**
+- "Client onboarding is painful every day; AML is just one piece of that"
+- "If you solve AML plus [X] and [Y], you'd have a complete solution"
+- "The real money is in [different opportunity], AML is too niche"
+
+**For Adjacent Expansion:**
+- "Start with AML to get in the door, then expand to [X]"
+- "AML is a wedge; the bigger opportunity is [compliance platform/onboarding platform/etc.]"
+- "Firms would pay more if it also solved [related problem]"
+
+---
+
+## Post-Meeting Analysis
+
+### After the Meeting, Ask Yourself:
+
+1. **Focus Validation:**
+   - Did they confirm AML is the most urgent/valuable opportunity?
+   - Or did they suggest something else is more important?
+
+2. **Market Size Comparison:**
+   - Is the AML market bigger or smaller than other opportunities they mentioned?
+   - Which problems affect more firms more often?
+
+3. **Willingness to Pay:**
+   - Which problems would firms pay more for?
+   - Is AML compliance a "must-have" but other things are "nice-to-have"?
+
+4. **Competition Assessment:**
+   - Are the other opportunities they mentioned less competitive?
+   - Is there a greenfield opportunity you hadn't considered?
+
+5. **Strategic Decision:**
+   - ✅ **Stay focused on AML** (if validated as best opportunity)
+   - 🔄 **Expand scope** (AML + onboarding + document management = platform)
+   - 🔀 **Pivot** (if something else is clearly better opportunity)
+   - 📋 **Roadmap planning** (AML first, then expand to X, Y, Z)
+
+---
+
 ## Discussion Topics to Cover
 
 ### Beyond the Questions
